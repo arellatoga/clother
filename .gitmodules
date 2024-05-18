@@ -1,0 +1,6 @@
+[submodule "IP-Adapter"]
+	path = ipadapter
+	url = https://github.com/tencent-ailab/IP-Adapter
+[submodule "Grounded-Segment-Anything"]
+	path = Grounded-Segment-Anything
+	url = https://github.com/IDEA-Research/Grounded-Segment-Anything
